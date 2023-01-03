@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 public class Controlls02 {
     public static void main(String[] args) {
         int nr1 = 3;
