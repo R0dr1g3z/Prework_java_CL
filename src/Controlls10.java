@@ -17,8 +17,6 @@ public class Controlls10 {
                 } else
                 System.out.print("* ");
             }
-
-
             System.out.println();
         }
     }
