@@ -3,7 +3,7 @@ public class Controlls10 {
         int n = 5;
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
-                if (j >= i + 1){
+                if (j >= i + 1) {
                     System.out.print(j + " ");
                 } else 
                 System.out.print("* ");
@@ -12,11 +12,13 @@ public class Controlls10 {
         }
         for (int i = 0; i < n; i++) {
             for (int j = 1; j <= n; j++) {
-                if (j + i > n){
+                if (j + i > n) {
                     System.out.print(j + " ");
                 } else
                 System.out.print("* ");
             }
+
+
             System.out.println();
         }
     }
